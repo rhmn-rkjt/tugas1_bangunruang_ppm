@@ -103,7 +103,7 @@
 
               SizedBox(height: 16),
 
-              Text("Hasil: ${hasil.toStringAsFixed(2)}"),
+              Text("Hasil : ${hasil.toStringAsFixed(2)}  cm³"),
             ],
           ),
         ),
